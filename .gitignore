@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+.venv
+env/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# 开发工具
+*.swp
+.idea/
+.DS_Store
+
+# 项目特定
+*.log
+/data/private/
